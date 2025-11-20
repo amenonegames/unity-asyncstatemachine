@@ -1,3 +1,6 @@
+# install
+https://github.com/amenonegames/unity-asyncstatemachine.git?path=/Packages/com.amenone.asyncstatemachine
+
 # AsyncStateMachine for Unity
 
 Simple statemachine for Unity that allows asynchronous state transitions.
