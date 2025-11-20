@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.amenone.asyncstatemachine",
+  "displayName": "Amenone Async State Machine",
+  "version": "0.1.2",
+  "unity": "2022.3",
+  "description": "async state machine.",
+  "author": {
+    "name": "amenonegames"
+  }
+}
