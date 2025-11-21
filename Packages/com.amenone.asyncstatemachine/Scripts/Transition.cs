@@ -8,12 +8,12 @@
         FINISHED
     }
 
-    public class Transition<T> {
-        public T From;
-        public T To;
+    public class Transition<TState> {
+        public TState From;
+        public TState To;
         public TransitionPhase Phase = TransitionPhase.NOT_STARTED;
 
-        public Transition(T from, T to) {
+        public Transition(TState from, TState to) {
             From = from;
             To = to;
         }
